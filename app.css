@@ -24,22 +24,22 @@ body, html{
     transform: translate(-50%, -50%);
 }
 .fb_logo{
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-top: 280px;
     background-size: cover;
     margin-left: 5px;
 }
 .in_logo{
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-top: 5px;
     background-size: cover;
     margin-left: 5px;
 }
 .ig_logo{
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-top: 5px;
     background-size: cover;
     margin-left: 5px;
