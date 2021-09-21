@@ -26,21 +26,24 @@ body, html{
 .fb_logo{
     width: 35px;
     height: 35px;
-    margin-top: 280px;
-    background-size: cover;
+    margin-top: 5px;
     margin-left: 5px;
 }
 .in_logo{
     width: 35px;
     height: 35px;
     margin-top: 5px;
-    background-size: cover;
     margin-left: 5px;
 }
 .ig_logo{
     width: 35px;
     height: 35px;
     margin-top: 5px;
-    background-size: cover;
     margin-left: 5px;
+}
+.mail_logo{
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+    margin-top: 260px;
 }
